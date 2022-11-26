@@ -1,11 +1,11 @@
 {
 	"prefix": "!",
 	"autoread": true,
-	"mongodb": "",
-	"ownerNumber": [""],
+	"mongodb": "mongodb+srv://wabot:yV0Tj2dplW5FzOYc@cluster0.rxaxkyc.mongodb.net/?retryWrites=true&w=majority",
+	"ownerNumber": ["6289505053854"],
 	"host": "https://domain.tld",
 	"application": {
-		"api_key": ""
+		"api_key": "rajadev"
 	},
 	"serverCreate": {
 		"nestId": "",
